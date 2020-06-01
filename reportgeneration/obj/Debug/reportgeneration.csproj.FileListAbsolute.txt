@@ -1,0 +1,66 @@
+c:\users\syed laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\bin\Debug\reportgeneration.exe.config
+c:\users\syed laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\obj\Debug\reportgeneration.csprojResolveAssemblyReference.cache
+c:\users\syed laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\obj\Debug\reportgeneration.Form1.resources
+c:\users\syed laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\obj\Debug\reportgeneration.Properties.Resources.resources
+c:\users\syed laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\obj\Debug\reportgeneration.csproj.GenerateResource.Cache
+C:\Users\Syed Laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\bin\Debug\reportgeneration.exe
+C:\Users\Syed Laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\bin\Debug\reportgeneration.pdb
+C:\Users\Syed Laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\bin\Debug\System.Data.SQLite.dll
+C:\Users\Syed Laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Syed Laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\obj\Debug\reportgeneration.exe
+C:\Users\Syed Laraib\documents\visual studio 2015\Projects\reportgeneration\reportgeneration\obj\Debug\reportgeneration.pdb
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\bin\Debug\reportgeneration.exe.config
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\obj\Debug\reportgeneration.exe
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\obj\Debug\reportgeneration.pdb
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\bin\Debug\reportgeneration.exe
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\bin\Debug\reportgeneration.pdb
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\bin\Debug\System.Data.SQLite.dll
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\bin\Debug\System.Data.SQLite.pdb
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\obj\Debug\reportgeneration.Form1.resources
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\obj\Debug\reportgeneration.Properties.Resources.resources
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\obj\Debug\reportgeneration.csproj.GenerateResource.Cache
+C:\Users\capricon\Downloads\Compressed\reportgeneration\reportgeneration\obj\Debug\reportgeneration.csprojResolveAssemblyReference.cache
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\bin\Debug\reportgeneration.exe.config
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\obj\Debug\reportgeneration.exe
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\obj\Debug\reportgeneration.pdb
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\obj\Debug\reportgeneration.Form1.resources
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\obj\Debug\reportgeneration.Properties.Resources.resources
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\obj\Debug\reportgeneration.csproj.GenerateResource.Cache
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\bin\Debug\reportgeneration.exe
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\bin\Debug\reportgeneration.pdb
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\bin\Debug\System.Data.SQLite.dll
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\reportgeneration\obj\Debug\reportgeneration.csprojResolveAssemblyReference.cache
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\bin\Debug\reportgeneration.exe.config
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.exe
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.pdb
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\bin\Debug\reportgeneration.exe
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\bin\Debug\reportgeneration.pdb
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\bin\Debug\System.Data.SQLite.dll
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\bin\Debug\System.Data.SQLite.pdb
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.csprojResolveAssemblyReference.cache
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.Form1.resources
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.Properties.Resources.resources
+C:\Users\capricon\Downloads\Compressed\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.csproj.GenerateResource.Cache
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\bin\Debug\reportgeneration.exe.config
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.exe
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.pdb
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.Form1.resources
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.Properties.Resources.resources
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.csproj.GenerateResource.Cache
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\bin\Debug\reportgeneration.exe
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\bin\Debug\reportgeneration.pdb
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\bin\Debug\System.Data.SQLite.dll
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\FinalReport\FinalReport\reportgeneration\obj\Debug\reportgeneration.csprojResolveAssemblyReference.cache
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\bin\Debug\reportgeneration.exe.config
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\obj\Debug\reportgeneration.exe
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\obj\Debug\reportgeneration.pdb
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\bin\Debug\reportgeneration.exe
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\bin\Debug\reportgeneration.pdb
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\bin\Debug\System.Data.SQLite.dll
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\obj\Debug\reportgeneration.csprojResolveAssemblyReference.cache
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\obj\Debug\reportgeneration.Form1.resources
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\obj\Debug\reportgeneration.Properties.Resources.resources
+C:\Users\Syed Laraib\Documents\Visual Studio 2015\Projects\FinalReport\NAWAZPROJECT\reportgeneration\obj\Debug\reportgeneration.csproj.GenerateResource.Cache
